@@ -6,7 +6,7 @@ A text-to-speech model trained using a custom dataset and using lj_speech
 clone the git repository
 
 ```
-git clone <repo_link>
+git clone https://github.com/Muskaan1111/TTS.git
 ```
 
 go inside of the folder and create a virtual environment
